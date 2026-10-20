@@ -4,7 +4,7 @@ WiFiLabel builds tools that turn USB-only thermal label printers (Zebra, Rollo, 
 
 ## Open source
 
-- Coming soon: **esp32-thermal-print-bridge** — ESP-IDF firmware (TCP 9100 / JetDirect → USB host) for the Waveshare ESP32-P4-NANO and DIY boards.
+- **[esp32-thermal-print-bridge](https://github.com/WiFiLabel/esp32-thermal-print-bridge)** — ESP-IDF firmware (TCP 9100 / JetDirect → USB host) for the Waveshare ESP32-P4-NANO and DIY boards.
 
 ## Product
 
@@ -13,4 +13,4 @@ Prefer a finished enclosure, flash, and support? See **[wifilabel.com](https://w
 ## Contact
 
 - Web: [wifilabel.com](https://wifilabel.com)
-- GitHub Issues on public repos once published
+- GitHub Issues on public repos
